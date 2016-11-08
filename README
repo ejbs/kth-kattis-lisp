@@ -1,0 +1,16 @@
+Requirements:
+Submissions doing the following:
+* Solve https://open.kattis.com/problems/hello
+* Solve https://open.kattis.com/problems/hello using two or more source files.
+* Solve https://open.kattis.com/problems/different
+* Solve any other problem (indicate which).
+* Stack-based MLE
+* Heap-based MLE
+* Compile error
+* Try to open and print out /etc/passwd
+* Any interesting RTEs that should be reported back specifically to the user as extrainfo as opposed to just RTE.
+* Any other RTE
+* TLE
+ 
+Also:
+Suggestion for what compiler to use (that is available in Ubuntu repos) and suitable compiler flags.
