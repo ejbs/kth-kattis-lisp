@@ -14,3 +14,12 @@ Submissions doing the following:
  
 Also:
 Suggestion for what compiler to use (that is available in Ubuntu repos) and suitable compiler flags.
+
+
+**SBCL should be run with:**
+sbcl --no-debugger --eval (progn (load file1) (file2) ...), use a regex for this?
+
+
+**Quicklisp:**
+
+We need to have a bunch of libraries like Alexandria, cl-ppcre, readily available
